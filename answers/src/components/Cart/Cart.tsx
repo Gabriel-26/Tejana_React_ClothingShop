@@ -4,7 +4,7 @@ import { ShopContext } from "../../context/shopContext";
 import { Product } from "../../models";
 import { ProductCard } from "../ProductCard";
 import { QuantityButton } from "../Quantity";
-import { CheckoutButton, ProductsWrapper, Title } from "./Cart.styled";
+import { CheckoutButton, ProductsWrapper, Title } from "./CartStyle";
 
 export const Cart = () => {
   const { products, total } = useContext(ShopContext);

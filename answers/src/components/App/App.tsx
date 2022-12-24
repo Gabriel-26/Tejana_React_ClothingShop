@@ -1,5 +1,5 @@
 import { Link, Route, Routes } from "react-router-dom";
-import { LinksWrapper, TitleWrapper, Wrapper } from "./App.styled";
+import { LinksWrapper, TitleWrapper, Wrapper } from "./AppStyle";
 
 import { Cart } from "../Cart";
 import { Products } from "../Products";

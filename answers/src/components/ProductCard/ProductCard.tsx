@@ -5,7 +5,7 @@ import {
   Title,
   WishButton,
   Wrapper,
-} from "./ProductCard.styled";
+} from "./ProductCardStyle";
 
 import { useState, useEffect, useContext } from "react";
 import { Product } from "../../models";

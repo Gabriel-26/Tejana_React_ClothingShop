@@ -72,7 +72,8 @@ export const WishButton = styled.div<WishButtonProps>`
   }
 
   p {
-    font-size: 20px;
+    align-items: center;
+    font-size: 18px;
     margin: 0;
     color: white;
   }

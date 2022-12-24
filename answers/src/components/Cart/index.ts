@@ -1,2 +1,2 @@
-export * from './Cart.styled';
+export * from './CartStyle';
 export * from './Cart';

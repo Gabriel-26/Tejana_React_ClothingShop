@@ -1,2 +1,2 @@
-export * from './ProductCard.styled';
+export * from './ProductCardStyle';
 export * from './ProductCard';
