@@ -19,9 +19,10 @@ export const IncrementButton = styled.button`
   }
 
   p {
-    font-size: 20px;
+    font-size: 13px;
     margin: 0;
     color: black;
+    font-weight: bold;
   }
 `;
 
@@ -44,9 +45,10 @@ export const DecrementButton = styled.button`
   }
 
   p {
-    font-size: 20px;
+    font-size: 13px;
     margin: 0;
     color: black;
+    font-weight: bold;
   }
 `;
 
